@@ -31,4 +31,4 @@
 
 # 🎤 공연영상 🎤
 
-[!백예린 우주를 줄게 2022년 1학기 CODA](http://img.youtube.com/vi/QYNwbZHmh8g/0.jpg)](https://www.youtube.com/watch?v=wdX9O8RJNSs) 
+(http://img.youtube.com/vi/QYNwbZHmh8g/0.jpg)]
