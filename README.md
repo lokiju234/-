@@ -1,6 +1,7 @@
 #HELLO EVERYONE
+---
 
-![title](/img/myImg.png){: width="50" height="50"}![KakaoTalk_20220325_232704430](https://user-images.githubusercontent.com/106290698/173176663-499eab6f-1915-41d3-b2c9-030bf5e6a6e8.jpg)
+![title](https://user-images.githubusercontent.com/106290698/173176663-499eab6f-1915-41d3-b2c9-030bf5e6a6e8.jpg){: width="50" height="50"}
 
 ✏️ NAME:최동규
 🌏 HOME:춘천
