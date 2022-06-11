@@ -1,16 +1,20 @@
 #HELLO EVERYONE
 ---
 
-![title](https://user-images.githubusercontent.com/106290698/173176663-499eab6f-1915-41d3-b2c9-030bf5e6a6e8.jpg){: width="50" height="50"}
+![title](https://ifh.cc/g/N4zyQl.jpg){: width="100" height="100"}
 
 ✏️ NAME:최동규
+
 🌏 HOME:춘천
+
 🎓 SCHOOL: 한림대학교 소프트웨어융합대학 빅데이터학과
+
 📧 E-MAIL: cdg20419@naver.com
+
 📀  [SCHOOL CLUB]: ['CODA'](https://www.h-coda.com/) / X-TRIC
 
 {: .notice}
-안녕하세요 정보보안 전문가를 목표로 전진하고 있는 21학번 빅데이터 전공 21학번 최동규 입니다. 현재 제38대 중앙동아리연합회 CLIP에서 사무부원으로 활동을 하며 여러가지 사회적인 실무 경험을 쌓고 있습니다. 중앙동아리는 락중점 밴드동아리 CODA 익스트림 스포츠 동아리 X-TRIC을 하고 있습니다. 
+안녕하세요 정보보안 전문가를 목표로 전진하고 있는 21학번 빅데이터 전공 21학번 최동규 입니다.   현재 제38대 중앙동아리연합회 CLIP에서 사무부원으로 활동을 하며 여러가지 사회적인 실무 경험을 쌓고 있습니다.  중앙동아리는 락중점 밴드동아리 CODA 익스트림 스포츠 동아리 X-TRIC을 하고 있습니다. 
 
 
 #🗼 주요 활동 내역 🗼
