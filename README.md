@@ -1,6 +1,6 @@
 #HELLO EVERYONE
 
-######![KakaoTalk_20220325_232704430](https://user-images.githubusercontent.com/106290698/173176663-499eab6f-1915-41d3-b2c9-030bf5e6a6e8.jpg)
+![title](/img/myImg.png){: width="50" height="50"}![KakaoTalk_20220325_232704430](https://user-images.githubusercontent.com/106290698/173176663-499eab6f-1915-41d3-b2c9-030bf5e6a6e8.jpg)
 
 ✏️ NAME:최동규
 🌏 HOME:춘천
@@ -29,4 +29,4 @@
 
 # 🎤 공연영상 🎤
 
-{ % include video id="wdX9O8RJNSs" provider="youtube" % }
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wdX9O8RJNSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
