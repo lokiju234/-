@@ -31,4 +31,4 @@
 
 # 🎤 공연영상 🎤
 
-(http://img.youtube.com/vi/QYNwbZHmh8g/0.jpg)]
+https://youtu.be/wdX9O8RJNSs
